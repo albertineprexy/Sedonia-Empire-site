@@ -1,0 +1,7 @@
+{
+  "name": "Sedonia - Premium Royal Institution Platform",
+  "description": "A high-end, authoritative platform for the Sedonia empire, focusing on culture, leadership, governance, diplomacy, and economic empowerment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
